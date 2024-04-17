@@ -1,0 +1,20 @@
+{
+  "name": "langchainjs-gemini-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.5.0",
+    "@langchain/google-genai": "^0.0.11",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.33",
+    "natural": "^7.0.0"
+  }
+}
